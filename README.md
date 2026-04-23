@@ -1,8 +1,8 @@
-🎬 Netflix Clone
+# 🎬 Netflix Clone
 
 A modern and fully responsive Netflix clone built using the React ecosystem. This project allows users to explore movies, view detailed information, and create a personalized watchlist with a smooth and engaging UI.
 
-🚀 Features
+# 🚀 Features
 - 🎥 Browse recommended movies on the homepage
 - 🗂️ Explore movies categorized by genres
 - ⭐ Add movies to your watchlist
@@ -12,7 +12,7 @@ A modern and fully responsive Netflix clone built using the React ecosystem. Thi
 - 🌍 View spoken languages
 - 🎭 Explore cast and movie details
 - 📱 Fully responsive design (mobile, tablet, desktop)
-- 🧰 Tech Stack
+# 🧰 Tech Stack
 - ⚛️ React
 - 🧠 Redux
 - 🔗 React-Redux
