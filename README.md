@@ -43,6 +43,6 @@ This project is built for learning purposes
 Focuses on API integration and state management
 UI is inspired by Netflix
 Includes dynamic movie data and trailer support
-👨‍💻 Author
+#👨‍💻 Author
 
-Metin Aktaş
+- Metin Aktaş
